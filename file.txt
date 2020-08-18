@@ -1,3 +1,8 @@
 editting second file
 
+ HEAD
 working on merge conflicts
+
+demonstrate git merge
+
+i m done
