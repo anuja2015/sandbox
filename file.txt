@@ -1,6 +1,8 @@
 editting second file
 
-demonstrate git merge
+ HEAD
+
 
 
 feature is implemented
+i m done
