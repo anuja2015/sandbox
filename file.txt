@@ -1,3 +1,6 @@
 editting second file
 
 demonstrate git merge
+
+
+feature is implemented
