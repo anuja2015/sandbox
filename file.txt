@@ -1,1 +1,3 @@
 editting second file
+
+demonstrate git merge
